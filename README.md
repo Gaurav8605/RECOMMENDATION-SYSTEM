@@ -38,4 +38,7 @@ Mean Absolute Error (MAE) – Calculates the average absolute differences betwee
 Both RMSE and MAE provide insights into how well the model generalizes to unseen data, helping to fine-tune and optimize future recommendation systems.
 
 Conclusion
-This recommendation system demonstrates the fundamental workflow of building a collaborative filtering model using SVD. By leveraging matrix factorization, the model effectively predicts user preferences, which can be extended to real-world applications such as personalized movie recommendations on platforms like Netflix. Further improvements, such as incorporating additional metadata (e.g., genres, user demographics) or hybrid models combining collaborative and content-based filtering, could enhance recommendation accuracy.#
+This recommendation system demonstrates the fundamental workflow of building a collaborative filtering model using SVD. By leveraging matrix factorization, the model effectively predicts user preferences, which can be extended to real-world applications such as personalized movie recommendations on platforms like Netflix. Further improvements, such as incorporating additional metadata (e.g., genres, user demographics) or hybrid models combining collaborative and content-based filtering, could enhance recommendation accuracy.
+
+
+#OUTPUT:![Image](https://github.com/user-attachments/assets/b7bfacf8-1d4a-4a11-8cab-37ed55d62896)
