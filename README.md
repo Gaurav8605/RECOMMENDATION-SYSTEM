@@ -1,11 +1,17 @@
 # RECOMMENDATION-SYSTEM
 *COMPANY*: CODETECH IT SOLUTIONS
+
 *NAME*:Gaurav Baburao Gaikwad
+
 *INTER ID*:CODHC18
+
 *DOMAIN*: MACHINE LEARNING
+
 *DURATION*:4 WEEKS
+
 *MENTOR*:NEELA SANTHOSH KUMAR
-*A recommendation system is an essential tool in modern data-driven applications, used extensively in e-commerce, streaming platforms, and personalized content delivery. This script implements a recommendation system using Singular Value Decomposition (SVD) on the MovieLens 100K dataset. The goal is to predict user preferences and recommend items based on past interactions.
+
+#A recommendation system is an essential tool in modern data-driven applications, used extensively in e-commerce, streaming platforms, and personalized content delivery. This script implements a recommendation system using Singular Value Decomposition (SVD) on the MovieLens 100K dataset. The goal is to predict user preferences and recommend items based on past interactions.
 
 Dataset Overview
 The MovieLens 100K dataset is a widely used benchmark in recommendation system research. It consists of 100,000 user ratings for various movies, with ratings ranging from 1 to 5. The dataset contains three primary components:
@@ -32,4 +38,4 @@ Mean Absolute Error (MAE) – Calculates the average absolute differences betwee
 Both RMSE and MAE provide insights into how well the model generalizes to unseen data, helping to fine-tune and optimize future recommendation systems.
 
 Conclusion
-This recommendation system demonstrates the fundamental workflow of building a collaborative filtering model using SVD. By leveraging matrix factorization, the model effectively predicts user preferences, which can be extended to real-world applications such as personalized movie recommendations on platforms like Netflix. Further improvements, such as incorporating additional metadata (e.g., genres, user demographics) or hybrid models combining collaborative and content-based filtering, could enhance recommendation accuracy.*
+This recommendation system demonstrates the fundamental workflow of building a collaborative filtering model using SVD. By leveraging matrix factorization, the model effectively predicts user preferences, which can be extended to real-world applications such as personalized movie recommendations on platforms like Netflix. Further improvements, such as incorporating additional metadata (e.g., genres, user demographics) or hybrid models combining collaborative and content-based filtering, could enhance recommendation accuracy.#
